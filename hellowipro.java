@@ -1,5 +1,5 @@
  
-public class hello_wipro
+public class hellowipro
 
 {
 
