@@ -1,5 +1,5 @@
  
-public class hellow_jenkins
+public class hellojenkins
 
 {
 
